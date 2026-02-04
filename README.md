@@ -1,5 +1,4 @@
 # Data-Modelling-Power-BI
-##Introduction: Where Dashboards Go to Live… or Die
 ![Power BI](https://www.ackama.com/wp-content/uploads/2025/09/dd221adb-b6e3-46dd-8111-9bdfbb196676-scaled.jpg)
 You can clean your data perfectly.  
 You can build flashy visuals.  
